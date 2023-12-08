@@ -1,2 +1,3 @@
 # .github
-About Hiconic
+
+**See profile/README.md**
