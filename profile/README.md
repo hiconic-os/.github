@@ -10,10 +10,15 @@
 
 ## For Contributors
 
-Links to important repositories:
+### Important repositories:
 
 * [Docker Images](https://github.com/hiconic-os/hiconic.ci.docker) - Dockerfiles + Pipelines to build Docker image with `Devrock SDK` (primairly for CI)
 * [Group Workflows](https://github.com/hiconic-os/hiconic.ci.workflows) - standard YAMLs used by regular groups; for now: `PRs` and `Custom Range` + `Unpublished Artifacts'` builds
 * [Maintenance Workflows](https://github.com/hiconic-os/hiconic.ci.maintenance) - General maintenance tasks in case something goes wrong; for now: `artifact-index cleanup`.
 * [Documentation](https://gitlab.com/modularmindlabs/opentf-academy/enablement) - Still in GitLab :(
 * [This file](https://github.com/hiconic-os/.github) - The `.github` repository
+
+### Important pipelines
+
+* [Build Ant Tasks](https://github.com/hiconic-os/com.braintribe.devrock.ant/actions/workflows/devrock-ant-tasks.yaml)
+* [Build Devrock SDK](https://github.com/hiconic-os/tribefire.extension.setup/actions/workflows/devrock-sdk.yaml)
