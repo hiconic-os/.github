@@ -4,16 +4,27 @@
 
 ## For Users
 
-* [Documentation](https://academy.modularmind.eu/enablement/getting-started/overview.html) - basic `Hiconic` intro with **tutorials** and additional information
-* [Download DevrockSdk](https://github.com/hiconic-os/maven-repo-dev/packages/2008060) - points to latest `devrock-sdk-2.1.xyz.zip`
+### Documentation
+* [Getting Started](https://docs.hiconic-os.org) - basic `Hiconic` intro with **tutorials** and additional information
+
+### Downloads
+* [Download Devrock SDK](https://api.hiconic-os.org/download-sdk.php) - direct link on latest version
+* [Download Devrock SDK (history)](https://github.com/hiconic-os/maven-repo-dev/packages/2008060) - `Github` Maven repository with older versions
+
+### Eclipse Plugins
+
+Install from `Eclipse` via `Help/Install New Software` with the right URL:
+
+* **Release (not yet available)** - `https://eclipse.hiconic-os.org/release`
+* **Beta** - `https://eclipse.hiconic-os.org/beta`
 
 ### Local Setup
 
-`DevRock SDK` requires a `GitHub` token to read artifacts from its maven repository:
+`DevRock SDK` unfortunately requires a `GitHub` token to read artifacts from `GitHub`'s Maven repository:
 
 * [generate a Personal Access Token (classic)](https://github.com/settings/tokens) with (at least) `read:packages` scope
 * copy the value (something like `ghp_AbcD3FGh1jK....`)
-* store the value in an environment variable `GITHUB_READ_PACKAGES_TOKEN`
+* store it in an environment variable `GITHUB_READ_PACKAGES_TOKEN`
 
 _NOTE: We recommend a dedicated token with only the `read:packages` scope and `no expiration` date._
 
