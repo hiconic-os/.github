@@ -32,7 +32,7 @@ _NOTE: We recommend a dedicated token with only the `read:packages` scope and `n
 
 ### Important repositories:
 
-* [Docker Images](https://github.com/hiconic-os/hiconic.ci.docker) - Dockerfiles + Pipelines to build Docker image with `Devrock SDK` (primairly for CI)
+* [Docker Images](https://github.com/hiconic-os/hiconic.ci.docker) - Dockerfiles + Pipelines to build Docker image with `Devrock SDK` (primarily for CI)
 * [Group Workflows](https://github.com/hiconic-os/hiconic.ci.workflows) - standard YAMLs used by regular groups; for now: `PRs` and `Custom Range` + `Unpublished Artifacts` builds
 * [Maintenance Workflows](https://github.com/hiconic-os/hiconic.ci.maintenance) - general maintenance tasks in case something goes wrong; for now: `artifact-index cleanup`
 * [Documentation](https://gitlab.com/modularmindlabs/opentf-academy/enablement) - still in GitLab :(
