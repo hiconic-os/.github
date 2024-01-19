@@ -5,18 +5,25 @@
 ## For Users
 
 ### Documentation
-* [Getting Started](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - basic `Hiconic` intro with **tutorials** and additional information
+* [Getting Started](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - basic tutorials and additional information
+* [Old proprietary version](https://documentation.tribefire.com/tribefire.cortex.documentation/concepts-doc/features.html) - extensive documentation of a previous version called `Tribefire`
+
+
+### Tech Overview Documents
+* [High-Level Overview - Slides (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/hiconic-highlevel-slides.pdf)
+* [Practical Relevance for Distributed Computing (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/relevance-for-distributed-computing.pdf)
+* [Projektskizze für Forschungsantrag [DE] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/projektskizze.pdf)
+* [US Patent (pdf)](https://patentimages.storage.googleapis.com/fb/43/c3/6a7041491ebdf8/US10095488.pdf)
+
 
 ### Downloads
-* [Download Devrock SDK](https://api.hiconic-os.org/download-sdk.php) - direct link on latest version
-* [Download Devrock SDK (history)](https://github.com/hiconic-os/maven-repo-dev/packages/2008060) - `Github` Maven repository with older versions
+* [Devrock SDK (latest)](https://api.hiconic-os.org/download-sdk.php)
+* [Devrock SDK (all versions)](https://github.com/hiconic-os/maven-repo-dev/packages/2008060)
+
 
 ### Eclipse Plugins
 
-Install from `Eclipse` via `Help` / `Install New Software` with the right URL:
-
-* **Release (not yet available)** - `https://eclipse.hiconic-os.org/release`
-* **Beta** - `https://eclipse.hiconic-os.org/beta`
+Install from _Eclipse_ via `Help` / `Install New Software` with Location `https://eclipse.hiconic-os.org/beta`.
 
 ### Local Setup
 
@@ -27,6 +34,8 @@ Install from `Eclipse` via `Help` / `Install New Software` with the right URL:
 * store it in an environment variable `GITHUB_READ_PACKAGES_TOKEN`
 
 _NOTE: We recommend a dedicated token with only the `read:packages` scope and `no expiration` date._
+
+
 
 ## For Contributors
 
