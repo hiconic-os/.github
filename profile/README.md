@@ -10,6 +10,8 @@
 
 
 ### Tech Overview Documents
+* [Introduction to the GenericModel Invention [EN] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/gm-invention.en.pdf)
+* [Einführung in die GenericModel Erfindung [DE] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/gm-invention.de.pdf)
 * [High-Level Overview - Slides (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/hiconic-highlevel-slides.pdf)
 * [Practical Relevance for Distributed Computing (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/relevance-for-distributed-computing.pdf)
 * [Projektskizze für Forschungsantrag [DE] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/projektskizze.pdf)
