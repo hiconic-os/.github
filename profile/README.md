@@ -5,7 +5,8 @@
 ## For Users
 
 ### Documentation
-* [Getting Started](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - basic tutorials and additional information
+* [Getting Started](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - basic tutorials and additional information about the `Cortex` modular platform
+* [Devrock plugins tutorials](https://eclipse.hiconic-os.org/documentation/com.braintribe.devrock.eclipse/devrock-tutorials/intro.html) - tutorials about our _Eclipse_ plugins
 * [Old proprietary version](https://documentation.tribefire.com/tribefire.cortex.documentation/concepts-doc/features.html) - extensive documentation of a previous version called `Tribefire`
 
 
