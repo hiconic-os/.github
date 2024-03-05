@@ -2,12 +2,12 @@
 
 `Hiconic` is an `open-source` general-purpose technology for building software with paradigms worthy of the 21st century.
 
-## For Users
+👉 [Join our Discord](https://discord.gg/S4BVrpdAHz)
 
 ### Documentation
-* [Getting Started](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - basic tutorials and additional information about the `Cortex` modular platform
-* [Devrock plugins tutorials](https://eclipse.hiconic-os.org/documentation/com.braintribe.devrock.eclipse/devrock-tutorials/intro.html) - tutorials about our _Eclipse_ plugins
-* [Old proprietary version](https://documentation.tribefire.com/tribefire.cortex.documentation/concepts-doc/features.html) - extensive documentation of a previous version called `Tribefire`
+* [Reflex](https://github.com/hiconic-os/hiconic.platform.reflex/blob/main/README.md) - our modular **microservices** platform
+* [Cortex](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - our modular **monolith** platform
+* [Devrock plugins](https://eclipse.hiconic-os.org/documentation/com.braintribe.devrock.eclipse/devrock-tutorials/intro.html) - tutorials on our _Eclipse_ plugins
 
 
 ### Tech Overview Documents
@@ -42,16 +42,4 @@ _NOTE: We recommend a dedicated token with only the `read:packages` scope and `n
 
 ## For Contributors
 
-### Important repositories:
-
-* [Docker Images](https://github.com/hiconic-os/hiconic.ci.docker) - Dockerfiles + Pipelines to build Docker image with `Devrock SDK` (primarily for CI)
-* [Group Workflows](https://github.com/hiconic-os/hiconic.ci.workflows) - standard YAMLs used by regular groups; for now: `PRs` and `Custom Range` + `Unpublished Artifacts` builds
-* [Maintenance Workflows](https://github.com/hiconic-os/hiconic.ci.maintenance) - general maintenance tasks in case something goes wrong; for now: `artifact-index cleanup`
-* [This file](https://github.com/hiconic-os/.github) - the `.github` repository
-
-### Important pipelines
-
-* [Build Ant Tasks](https://github.com/hiconic-os/com.braintribe.devrock.ant/actions/workflows/devrock-ant-tasks.yaml)
-* [Build Devrock SDK](https://github.com/hiconic-os/tribefire.extension.setup/actions/workflows/devrock-sdk.yaml)
-* [Build Devrock SDK Docker Image](https://github.com/hiconic-os/hiconic.ci.docker/actions/workflows/dr-sdk.yaml)
-* [Publish Documentation](https://github.com/hiconic-os/tribefire.cortex.documentation/actions/workflows/publish-doc.yaml)
+ [Go to README for contributors...](https://github.com/hiconic-os/.github/blob/main/profile/README-CONTRIBUTORS.md)
