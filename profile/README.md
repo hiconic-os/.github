@@ -10,15 +10,6 @@
 * [Devrock plugins](https://eclipse.hiconic-os.org/documentation/com.braintribe.devrock.eclipse/devrock-tutorials/intro.html) - tutorials on our _Eclipse_ plugins
 
 
-### Tech Overview Documents
-* [Introduction to the GenericModel Invention [EN] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/gm-invention.en.pdf)
-* [Einführung in die GenericModel Erfindung [DE] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/gm-invention.de.pdf)
-* [High-Level Overview - Slides (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/hiconic-highlevel-slides.pdf)
-* [Practical Relevance for Distributed Computing (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/relevance-for-distributed-computing.pdf)
-* [Projektskizze für Forschungsantrag [DE] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/projektskizze.pdf)
-* [US Patent (pdf)](https://patentimages.storage.googleapis.com/fb/43/c3/6a7041491ebdf8/US10095488.pdf)
-
-
 ### Downloads
 * [Devrock SDK (latest)](https://api.hiconic-os.org/download-sdk.php)
 * [Devrock SDK (all versions)](https://github.com/hiconic-os/maven-repo-dev/packages/2008060)
@@ -38,6 +29,14 @@ Install from _Eclipse_ via `Help` / `Install New Software` with Location `https:
 
 _NOTE: We recommend a dedicated token with only the `read:packages` scope and `no expiration` date._
 
+
+### Tech Overview Documents
+* [Introduction to the GenericModel Invention [EN] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/gm-invention.en.pdf)
+* [Einführung in die GenericModel Erfindung [DE] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/gm-invention.de.pdf)
+* [High-Level Overview - Slides (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/hiconic-highlevel-slides.pdf)
+* [Practical Relevance for Distributed Computing (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/relevance-for-distributed-computing.pdf)
+* [Projektskizze für Forschungsantrag [DE] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/projektskizze.pdf)
+* [US Patent (pdf)](https://patentimages.storage.googleapis.com/fb/43/c3/6a7041491ebdf8/US10095488.pdf)
 
 
 ## For Contributors
