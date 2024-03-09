@@ -4,22 +4,25 @@
 
 👉 [Join our Discord](https://discord.gg/S4BVrpdAHz)
 
-### Documentation
-* [Reflex](https://github.com/hiconic-os/hiconic.platform.reflex/blob/main/README.md) - our modular **microservices** platform
-* [Cortex](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - our modular **monolith** platform
-* [Devrock plugins](https://eclipse.hiconic-os.org/documentation/com.braintribe.devrock.eclipse/devrock-tutorials/intro.html) - tutorials on our _Eclipse_ plugins
+## Documentation
+* [Our Vision](https://hiconic-os.github.io/hiconic.about/posts/vision.html) - **high level introduction** to our technology
+* [Getting started](https://hiconic-os.github.io/hiconic.platform.reflex/getting-started/getting-started.html) - simple tutorial for our microservices platform
+* [Reflex](https://hiconic-os.github.io/hiconic.platform.reflex/) - home of our modular **microservices platform**
+* [Cortex](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - tutorial for our modular **monolith platform**
+* [Devrock plugins](https://eclipse.hiconic-os.org/documentation/com.braintribe.devrock.eclipse/devrock-tutorials/intro.html) - tutorials on our **_Eclipse_ plugins**
 
 
-### Downloads
+## Downloads
 * [Devrock SDK (latest)](https://api.hiconic-os.org/download-sdk.php)
 * [Devrock SDK (all versions)](https://github.com/hiconic-os/maven-repo-dev/packages/2008060)
 
 
-### Eclipse Plugins
+## Eclipse Plugins
 
 Install from _Eclipse_ via `Help` / `Install New Software` with Location `https://eclipse.hiconic-os.org/beta`.
 
-### Local Setup
+
+## Local Setup
 
 `DevRock SDK` unfortunately requires a `GitHub` token to read artifacts from `GitHub`'s Maven repository:
 
@@ -30,7 +33,7 @@ Install from _Eclipse_ via `Help` / `Install New Software` with Location `https:
 _NOTE: We recommend a dedicated token with only the `read:packages` scope and `no expiration` date._
 
 
-### Tech Overview Documents
+## Tech Overview Documents
 * [Introduction to the GenericModel Invention [EN] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/gm-invention.en.pdf)
 * [Einführung in die GenericModel Erfindung [DE] (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/gm-invention.de.pdf)
 * [High-Level Overview - Slides (pdf)](https://hiconic-os.github.io/web-resources/technical-overview/hiconic-highlevel-slides.pdf)
