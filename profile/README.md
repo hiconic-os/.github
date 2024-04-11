@@ -1,15 +1,20 @@
 # Hiconic
 
-`Hiconic` is an `open-source` general-purpose technology for building software with paradigms worthy of the 21st century.
+`Hiconic` is an open-source general-purpose technology for building software with paradigms worthy of the 21st century.
 
-👉 [Join our Discord](https://discord.gg/S4BVrpdAHz)
+
+## About
+`Hiconic` is a model-oriented platform. It treats data types as first class citizens, allowing much more nimble and flexible data manipulation than regular POJOs.
+
+On top there is an application framework called `Reflex`, an alternative to e.g. `Spring Boot` or `Quarkus`. It consequently applies modeling in many domains (configuration, APIs, error handling, ...), leading to intuitive designs, lots of convention of over configuration and ease of writing generic components. Its modular design and model-based conventions allow for many features (e.g. REST API) to be added to a project simply by declaring a dependency to the desired module.
+
+👉 If you have any questions [join our Discord](https://discord.gg/S4BVrpdAHz).
+
 
 ## Documentation
 * [Our Vision](https://hiconic-os.github.io/hiconic.about/posts/vision.html) - **high level introduction** to our technology
-* [Getting started](https://hiconic-os.github.io/hiconic.platform.reflex/getting-started/getting-started.html) - simple tutorial for our microservices platform
-* [Reflex](https://hiconic-os.github.io/hiconic.platform.reflex/) - home of our modular **microservices platform**
-* [Cortex](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - tutorial for our modular **monolith platform**
-* [Devrock plugins](https://eclipse.hiconic-os.org/documentation/com.braintribe.devrock.eclipse/devrock-tutorials/intro.html) - tutorials on our **_Eclipse_ plugins**
+* [Reflex - Getting started](https://hiconic-os.github.io/hiconic.platform.reflex/getting-started/getting-started.html) - simple tutorial for our **microservices platform**
+* [Reflex - Home](https://hiconic-os.github.io/hiconic.platform.reflex/) - home of our **microservices platform**
 
 
 ## Downloads
@@ -18,19 +23,7 @@
 
 
 ## Eclipse Plugins
-
-Install from _Eclipse_ via `Help` / `Install New Software` with Location `https://eclipse.hiconic-os.org/beta`.
-
-
-## Local Setup
-
-`DevRock SDK` unfortunately requires a `GitHub` token to read artifacts from `GitHub`'s Maven repository:
-
-* [generate a Personal Access Token (classic)](https://github.com/settings/tokens) with (at least) `read:packages` scope
-* copy the value (something like `ghp_AbcD3FGh1jK....`)
-* store it in an environment variable `GITHUB_READ_PACKAGES_TOKEN`
-
-_NOTE: We recommend a dedicated token with only the `read:packages` scope and `no expiration` date._
+Location: `https://eclipse.hiconic-os.org/beta`
 
 
 ## Tech Overview Documents
