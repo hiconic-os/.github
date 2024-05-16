@@ -18,8 +18,8 @@ On top there is an application framework called `Reflex`, an alternative to e.g.
 
 
 ## Downloads
-* [Devrock SDK (latest)](https://api.hiconic-os.org/download-sdk.php)
-* [Devrock SDK (all versions)](https://github.com/hiconic-os/maven-repo-dev/packages/2008060)
+* [Hiconic SDK (latest)](https://api.hiconic-os.org/download-sdk.php)
+* [Hiconic SDK (all versions)](https://github.com/hiconic-os/maven-repo-dev/packages/2152237)
 
 
 ## Eclipse Plugins
