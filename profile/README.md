@@ -18,7 +18,7 @@ On top there is an application framework called `Reflex`, an alternative to e.g.
 
 
 ## Downloads
-* [Hiconic SDK (latest)](https://api.hiconic-os.org/download-sdk.php)
+* [Hiconic SDK (latest)](https://api.hiconic-os.org/dowload-latest-artifact-part.php?groupId=tribefire.extension.setup&artifactId=hiconic-sdk&type=zip)
 * [Hiconic SDK (all versions)](https://github.com/hiconic-os/maven-repo-dev/packages/2152237)
 
 
