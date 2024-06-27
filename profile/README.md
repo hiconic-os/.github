@@ -2,11 +2,31 @@
 
 `Hiconic` is an open-source general-purpose technology for building software with paradigms worthy of the 21st century.
 
+## Short Intro
 
-## About
-`Hiconic` is a model-oriented platform. It treats data types as first class citizens, allowing much more nimble and flexible data manipulation than regular POJOs.
+The essence of `Hiconic` is a (new) paradigm based on consequent application of modeling to different aspects of SW development. 
 
-On top there is an application framework called `Reflex`, an alternative to e.g. `Spring Boot` or `Quarkus`. It consequently applies modeling in many domains (configuration, APIs, error handling, ...), leading to intuitive designs, lots of convention of over configuration and ease of writing generic components. Its modular design and model-based conventions allow for many features (e.g. REST API) to be added to a project simply by declaring a dependency to the desired module.
+On the **lowest level** we offer what can be considered an **extension of the programming language** - a type system dedicated for defining entities (data types). This contrasts with languages usually using classes with fields and getters/setters, which frankly sucks.
+
+Our **data types are treated as first class citizens**, allowing much more nimble and flexible data manipulation than classes. E.g. our types have their own reflection, which treats them as entities with properties rather than classes with methods. This makes writing generic algorithms and useful APIs easy, and it comes very naturally.
+
+On top we have a whole ecosystem (for lack of a better word) of tools/extensions/platforms that take advantage of the **model-driven approach**. Over the years we've kept applying modeling to many aspects of SW, as it turned out to lead to **significantly more robust architectures** (see the link to `Our Vision` below for more details).
+
+For the record, we offer this technology for both `Java` and `JavaScript`.
+
+## Products
+
+#### Reflex Platform
+
+The primary "product" showcasing the model-driven paradigm is a platform called `Reflex`, an alternative to e.g. `Spring Boot` or `Quarkus`. It applies modeling across many domains like _configuration_, _APIs_, _error handling_ and more, leading to intuitive designs and lots of convention of over configuration.
+
+#### Spring Boot Extensions (coming soon)
+
+Seeing the enormous popularity of **`Spring Boot`**, we are also working on an integration for this platform. Stay tuned!
+
+#### hiconic.js
+
+We also offer a `JavScript` library (with `TypeScript` declarations) called `hiconic.js`. It manifests our core technology (espacially support for modeling), is perfectly compatible with the `Java` based back-ends, and runs in the browser as well as on `Node.js`.
 
 👉 If you have any questions [join our Discord](https://discord.gg/S4BVrpdAHz).
 
@@ -19,7 +39,6 @@ On top there is an application framework called `Reflex`, an alternative to e.g.
 
 ## Downloads
 * [Hiconic SDK (latest)](https://api.hiconic-os.org/dowload-latest-artifact-part.php?groupId=tribefire.extension.setup&artifactId=hiconic-sdk&type=zip)
-* [Hiconic SDK (all versions)](https://github.com/hiconic-os/maven-repo-dev/packages/2152237)
 
 
 ## Eclipse Plugins

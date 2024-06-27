@@ -15,6 +15,8 @@
 * [Publish Cortex Documentation](https://github.com/hiconic-os/tribefire.cortex.documentation/actions/workflows/publish-doc.yaml)
 
 ### Downloads
+* [Hiconic SDK (latest)](https://api.hiconic-os.org/dowload-latest-artifact-part.php?groupId=tribefire.extension.setup&artifactId=hiconic-sdk&type=zip)
+* [Hiconic SDK (all versions)](https://github.com/hiconic-os/maven-repo-dev/packages/2152237)
 * [Eclipse preferences](https://hiconic-os.github.io/web-resources/development/eclipse-preferences/hiconic-eclipse-preferences.epf) - see also the [readme](https://github.com/hiconic-os/web-resources/blob/main/development/eclipse-preferences/README.md)
 
 ### Other
