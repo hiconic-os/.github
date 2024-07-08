@@ -56,4 +56,5 @@ Location: `https://eclipse.hiconic-os.org/beta`
 
 ## For Contributors
 
- [Go to README for contributors...](https://github.com/hiconic-os/.github/blob/main/profile/README-CONTRIBUTORS.md)
+* [Go to README for contributors...](https://github.com/hiconic-os/.github/blob/main/profile/README-CONTRIBUTORS.md)
+* [Builds Status](https://github.com/hiconic-os/.github/blob/main/profile/builds-status.md)

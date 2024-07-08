@@ -20,6 +20,7 @@
 * [Eclipse preferences](https://hiconic-os.github.io/web-resources/development/eclipse-preferences/hiconic-eclipse-preferences.epf) - see also the [readme](https://github.com/hiconic-os/web-resources/blob/main/development/eclipse-preferences/README.md)
 
 ### Other
+* [Builds Status](https://github.com/hiconic-os/.github/blob/main/profile/builds-status.md)
 * [Cortex](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - tutorial for our **monolith platform**
 * [Eclipse plugins](https://eclipse.hiconic-os.org/documentation/com.braintribe.devrock.eclipse/devrock-tutorials/intro.html) - tutorials on our **_Eclipse_ plugins**
 * [Old TF documentation](https://documentation.tribefire.com/tribefire.cortex.documentation/concepts-doc/features.html)
