@@ -1,6 +1,6 @@
 # Hiconic
 
-`Hiconic` is an open-source general-purpose technology for building software with paradigms worthy of the 21st century.
+`Hiconic` introduces reflective and reactive modeling for any domain to efficiently support both domain-specific and generic coding. It does so to establish homoiconicity on a whole new level, going beyond the typical definition for programming languages. Still, in a classical sense of homoiconicity, `Hiconic` applies this modeling to the identification and parameterization of functions, normalizing function calls as data. This normalization empowers seamless networking by decoupling from specific formats, protocols, or programming languages. As a result, `Hiconic` provides a crucial foundation for future-proof interoperability across distributed, decentralized, multilingual, and AI-powered environments.
 
 ## Short Intro
 
