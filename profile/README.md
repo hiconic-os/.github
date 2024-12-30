@@ -38,11 +38,11 @@ We also offer a `JavScript` library (with `TypeScript` declarations) called `hic
 
 
 ## Downloads
-* [Hiconic SDK (latest)](https://api.hiconic-os.org/dowload-latest-artifact-part.php?groupId=tribefire.extension.setup&artifactId=hiconic-sdk&type=zip)
+* [Hiconic SDK (latest)](https://api.hiconic.dev/dowload-latest-artifact-part.php?groupId=tribefire.extension.setup&artifactId=hiconic-sdk&type=zip)
 
 
 ## Eclipse Plugins
-Location: `https://eclipse.hiconic-os.org/beta`
+Location: `https://eclipse.hiconic.dev/beta`
 
 
 ## Tech Overview Documents
