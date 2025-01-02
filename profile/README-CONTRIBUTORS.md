@@ -15,12 +15,12 @@
 * [Publish Cortex Documentation](https://github.com/hiconic-os/tribefire.cortex.documentation/actions/workflows/publish-doc.yaml)
 
 ### Downloads
-* [Hiconic SDK (latest)](https://api.hiconic-os.org/dowload-latest-artifact-part.php?groupId=tribefire.extension.setup&artifactId=hiconic-sdk&type=zip)
+* [Hiconic SDK (latest)](https://api.hiconic.dev/dowload-latest-artifact-part.php?groupId=tribefire.extension.setup&artifactId=hiconic-sdk&type=zip)
 * [Hiconic SDK (all versions)](https://github.com/hiconic-os/maven-repo-dev/packages/2152237)
 * [Eclipse preferences](https://hiconic-os.github.io/web-resources/development/eclipse-preferences/hiconic-eclipse-preferences.epf) - see also the [readme](https://github.com/hiconic-os/web-resources/blob/main/development/eclipse-preferences/README.md)
 
 ### Other
 * [Builds Status](https://github.com/hiconic-os/.github/blob/main/profile/builds-status.md)
-* [Cortex](https://docs.hiconic-os.org/tribefire.cortex.documentation/getting-started-doc/overview.html) - tutorial for our **monolith platform**
-* [Eclipse plugins](https://eclipse.hiconic-os.org/documentation/com.braintribe.devrock.eclipse/devrock-tutorials/intro.html) - tutorials on our **_Eclipse_ plugins**
+* [Cortex](https://docs.hiconic.dev/tribefire.cortex.documentation/getting-started-doc/overview.html) - tutorial for our **monolith platform**
+* [Eclipse plugins](https://eclipse.hiconic.dev/documentation/com.braintribe.devrock.eclipse/devrock-tutorials/intro.html) - tutorials on our **_Eclipse_ plugins**
 * [Old TF documentation](https://documentation.tribefire.com/tribefire.cortex.documentation/concepts-doc/features.html)
