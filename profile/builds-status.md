@@ -37,4 +37,6 @@ Group | status
 
 Artifact | status
 -|-
-[hc.**js**](https://github.com/hiconic-os/tribefire.js/tree/main/hc-js-test) | [![js](https://github.com/hiconic-os/tribefire.js/actions/workflows/periodic-hc-js.yaml/badge.svg)](https://github.com/hiconic-os/tribefire.js/actions/workflows/periodic-hc-js.yaml)
+[tf.js:**hc-js-test**](https://github.com/hiconic-os/tribefire.js/tree/main/hc-js-test) | [![hc-js-test](https://github.com/hiconic-os/tribefire.js/actions/workflows/periodic-hc-js.yaml/badge.svg)](https://github.com/hiconic-os/tribefire.js/actions/workflows/periodic-hc-js.yaml)
+[dev.hc.local-first:**local-first-js**](https://github.com/hiconic-os/dev.hiconic.local-first/tree/main/local-first-js) | [![local-first-js](https://github.com/hiconic-os/dev.hiconic.local-first/actions/workflows/periodic-local-first.yaml/badge.svg)](https://github.com/hiconic-os/dev.hiconic.local-first/actions/workflows/periodic-local-first.yaml)
+
