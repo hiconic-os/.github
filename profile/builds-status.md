@@ -29,7 +29,6 @@ Group | status
 Group | status
 -|-
 [tribefire.**js**](https://github.com/hiconic-os/tribefire.js) | [![js](https://github.com/hiconic-os/tribefire.js/actions/workflows/periodic.yaml/badge.svg)](https://github.com/hiconic-os/tribefire.js/actions/workflows/periodic.yaml)
-[tribefire.extension.**hydrux**](https://github.com/hiconic-os/tribefire.extension.hydrux) | [![hydrux](https://github.com/hiconic-os/tribefire.extension.hydrux/actions/workflows/periodic.yaml/badge.svg)](https://github.com/hiconic-os/tribefire.extension.hydrux/actions/workflows/periodic.yaml)
 [tribefire.**gwt**](https://github.com/hiconic-os/tribefire.gwt) | [![gwt](https://github.com/hiconic-os/tribefire.gwt/actions/workflows/periodic.yaml/badge.svg)](https://github.com/hiconic-os/tribefire.gwt/actions/workflows/periodic.yaml)
 [tribefire.app.**explorer**](https://github.com/hiconic-os/tribefire.app.explorer) | [![explorer](https://github.com/hiconic-os/tribefire.app.explorer/actions/workflows/periodic.yaml/badge.svg)](https://github.com/hiconic-os/tribefire.app.explorer/actions/workflows/periodic.yaml)
 
